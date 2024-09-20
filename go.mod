@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/goexl/exception v0.0.1
-	github.com/goexl/gox v1.8.7
+	github.com/goexl/gox v1.8.9
 	github.com/pangum/config v0.0.9
 	github.com/pangum/pangu v1.4.4
 	github.com/pelletier/go-toml/v2 v2.2.3
