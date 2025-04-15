@@ -7,7 +7,7 @@ require (
 	github.com/goexl/exception v0.0.3
 	github.com/goexl/gox v1.9.2
 	github.com/pangum/config v0.1.0
-	github.com/pangum/pangu v1.6.0
+	github.com/pangum/pangu v1.6.3
 	github.com/pelletier/go-toml/v2 v2.2.4
 )
 
