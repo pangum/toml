@@ -1,6 +1,7 @@
 module github.com/pangum/toml
 
-go 1.23
+go 1.24
+
 toolchain go1.24.1
 
 require (
@@ -8,7 +9,7 @@ require (
 	github.com/goexl/gox v1.9.2
 	github.com/pangum/config v0.1.0
 	github.com/pangum/pangu v1.6.3
-	github.com/pelletier/go-toml/v2 v2.2.4
+	github.com/pelletier/go-toml/v2 v2.3.1
 )
 
 require (
